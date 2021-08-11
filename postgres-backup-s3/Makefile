@@ -2,7 +2,7 @@
 # ------------------------------------------------------------------------------
 PROJECT_NAME=library
 REPO_NAME=postgres-backup-s3
-IMAGE_ID=registry.dekaside.com/${PROJECT_NAME}/${PROJECT_NAME}
+IMAGE_ID=registry.dekaside.com/${PROJECT_NAME}/${REPO_NAME}
 
 # Build and push docker image.
 # ------------------------------------------------------------------------------
